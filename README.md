@@ -1,1 +1,0 @@
-# javaquery-slider
